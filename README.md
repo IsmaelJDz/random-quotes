@@ -2,7 +2,7 @@
 
 ![Captura de la app](./img/landing.png)
 
-[ver la aplicación](https://fullstack-mern.netlify.app/)
+[ver la aplicación](https://ismaeljdz.github.io/random-quotes/index.html)
 
 ## Welcome! 👋
 
